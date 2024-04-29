@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 -->
 ![Banner Image for Dan Morriss GitHub Profile](danmorrissbanner.png)
 
-# Dan Morriss
+# Jayadeep Ravuri
 ## Full Stack Software Developer
 
 ### About Me
 
-Hi there I'm Dan, a Junior Web Developer 👋🏻
+Hi there I'm Jayadeep, a Junior Web Developer 👋🏻
 
 I am currently working on my Level 5 Diploma in Full Stack Software Development with the Code Institute.
 
-When I'm not coding, I can be found playing music 🎸, reading 📚, climbing 🧗, running 🏃‍♂️ with my dogs and spending time with my family 👨‍👩‍👦.
+When I'm not coding, I can be found playing music 🎸, reading 📚, running 🏃‍♂️ with my dogs and cycling.
 
 
 - - -
@@ -31,10 +31,8 @@ When I'm not coding, I can be found playing music 🎸, reading 📚, climbing �
 
 ### Contact Me
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/morrissdaniel/)
-[<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'>](https://www.facebook.com/morrissdaniel/)
-[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram'>](https://www.instagram.com/danielmorriss/)
-[<img src='https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white' alt='strava'>](https://www.strava.com/athletes/54299310)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jayadeep-ravuri/)
+
 
 
 - - -
@@ -62,7 +60,6 @@ When I'm not coding, I can be found playing music 🎸, reading 📚, climbing �
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
 <!-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
 
 
@@ -120,36 +117,4 @@ When I'm not coding, I can be found playing music 🎸, reading 📚, climbing �
 
 - - -
 
-
-### Hackathon Projects
-
-I was nervous signing up for my first hackathon, but absolutely loved it, and came away with first place! Collaborating with others within a deadline using sprints and an agile methodology is incredibly rewarding.
-
-
-<a href="https://api.eu.badgr.io/public/assertions/yaLtUE1gREaePeygpVV1gw"><img width="120px" height="120px"  src="https://api.eu.badgr.io/public/assertions/yaLtUE1gREaePeygpVV1gw/image"></a>
-
-
-<details>
-<summary>Click here to view a summary of my Hackathon Projects</summary>
-
-
-| Date, Theme & Organiser   | Hackathon Project | Place |
-| :--------: | :-----------: | :--------------: |
-| <p>August 2023:</p><p><a href="https://hackathon.codeinstitute.net/teams/338/">Retro Quest</a></p><p>Organised by the Code Institute</p>| <p><a href="https://github.com/DanMorriss/Retro-Mashup-Mayhem"><img src="https://github.com/DanMorriss/Retro-Mashup-Mayhem/blob/main/docs/retro-mash.png?raw=true" width="800px"></a></p><p>Retro Mashup Mayhem - A JavaScrip game using the Kaboom.js framework inspired by retro arcade games. | <a href="https://api.eu.badgr.io/public/assertions/yaLtUE1gREaePeygpVV1gw"><img src="https://api.eu.badgr.io/public/assertions/yaLtUE1gREaePeygpVV1gw/image"></a> |
-
-</details>
-
-- - -
-
-### Stats
-
-![Dan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danmorriss)
-
-<!-- ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danmorriss&theme=default) -->
-
-<!-- ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=danmorriss&theme=default) -->
-
-<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=danmorriss&margin-w=60&no-frame=true) -->
-
-
-- - - 
+ 
