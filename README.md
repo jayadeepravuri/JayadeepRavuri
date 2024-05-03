@@ -31,7 +31,7 @@ When I'm not coding, I can be found playing music 🎸, reading 📚, running �
 
 ### Contact Me
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jayadeep-ravuri/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/jayadeep-ravuri/)
 
 
 
