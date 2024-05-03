@@ -44,6 +44,9 @@ When I'm not coding, I can be found playing music 🎸, reading 📚, running �
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
+![Photoshop](https://img.shields.io/badge/Photoshop-Edit%20Images-green?logo=adobe-photoshop&logoColor=white)
+![Lucid chart](https://img.shields.io/badge/Lucidchart-Create%20Diagrams-blue?logo=lucidchart&logoColor=whit)
+
 
 #### Programming Languages
 
