@@ -113,9 +113,10 @@ When I'm not coding, I can be found playing music 🎸, reading 📚, running �
 
 | Milestone No.   | Project | Description | Grade | 
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1 | <p><a href="https://github.com/DanMorriss/jazz-platform"><img src="https://github.com/DanMorriss/jazz-platform/blob/main/assets/images/marlborough-jazz-platform-mockup.png?raw=true"></a></p><p>Marlborough Jazz Platform</p> | <p>A website created for a fictional monthly Jazz Platform hosted by some of jazz history's greatest players. Created using HTML & CSS. | Merit |
-| 2 | <p><a href="https://github.com/DanMorriss/music-theory-quiz"><img src="https://github.com/DanMorriss/music-theory-quiz/blob/main/assets/images/responsive-mockup.png?raw=true"></a></p><p>Music Theory Quiz</p> | <p>A quiz app designed to test your music theory knowledge! Created with HTML, CSS & JavaScript. | Merit |
-| 3 | <p><a href="https://github.com/DanMorriss/lumos-online-banking"><img src="https://github.com/DanMorriss/lumos-online-banking/blob/main/assets/responsive_mockup.png?raw=true"></a></p><p>Lumos Online Banking</p> | <p>An Python based online banking app with user and admin features. The programme uses Google Sheets as an external database to store all the user information.</p> | Merit |
+| 1 | <p><a href="https://github.com/jayadeepravuri/CHARLOTTE-MAE"><img src="https://github.com/jayadeepravuri/CHARLOTTE-MAE/blob/bb546708c53764b02047459a74669904a38eaa4a/project%20one/assets/images/responsive%20-img.JPG"></a></p><p>Charlotte-Mae</p> | <p>A website created for Charlotte mae's which is a service based business , where, the therapist, charlotte mae provides therapy sessions for people dealing with cycle of trauma, confusing emotions and feelings.. Created using HTML & CSS. 
+| 2 | <p><a href="https://github.com/jayadeepravuri/project2"><img src="https://github.com/jayadeepravuri/project2/blob/main/images/mockup.JPG"></a></p><p>Your Swedish Quiz</p> | <p>Swedish Quiz is fun interative quiz game. ! Created with HTML, CSS & JavaScript. 
+| 3 | <p><a href="https://github.com/jayadeepravuri/Motorman"><img src="https://github.com/jayadeepravuri/Motorman/blob/main/assets/images/title.JPG"></a></p><p>MotorMan</p> | <p>An Python based command line interface game and the player should guess a letter or a word within 6 tries, in order to win the game.</p> 
+| 4 | <p><a href="https://github.com/jayadeepravuri/agape"><img src="https://github.com/jayadeepravuri/agape/blob/main/documentation/readme%20images/am%20i%20responsive.png"></a></p><p>Agape</p> | <p>The platform was built utilizing Django, boasting comprehensive CRUD operations and an intuitive user interface to facilitate volunteering for agape-related tasks.</p> 
 </details>
 
 - - -
