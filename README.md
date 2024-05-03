@@ -111,12 +111,12 @@ When I'm not coding, I can be found playing music 🎸, reading 📚, running �
 <details>
 <summary>Click here to view a summary of my Milestone Projects</summary>
 
-| Milestone No.   | Project | Description | Grade | 
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| 1 | <p><a href="https://github.com/jayadeepravuri/CHARLOTTE-MAE"><img src="https://github.com/jayadeepravuri/CHARLOTTE-MAE/blob/bb546708c53764b02047459a74669904a38eaa4a/project%20one/assets/images/responsive%20-img.JPG"></a></p><p>Charlotte-Mae</p> | <p>A website created for Charlotte mae's which is a service based business , where, the therapist, charlotte mae provides therapy sessions for people dealing with cycle of trauma, confusing emotions and feelings.. Created using HTML & CSS. 
-| 2 | <p><a href="https://github.com/jayadeepravuri/project2"><img src="https://github.com/jayadeepravuri/project2/blob/main/images/mockup.JPG"></a></p><p>Your Swedish Quiz</p> | <p>Swedish Quiz is fun interative quiz game. ! Created with HTML, CSS & JavaScript. 
-| 3 | <p><a href="https://github.com/jayadeepravuri/Motorman"><img src="https://github.com/jayadeepravuri/Motorman/blob/main/assets/images/title.JPG"></a></p><p>MotorMan</p> | <p>An Python based command line interface game and the player should guess a letter or a word within 6 tries, in order to win the game.</p> 
-| 4 | <p><a href="https://github.com/jayadeepravuri/agape"><img src="https://github.com/jayadeepravuri/agape/blob/main/documentation/readme%20images/am%20i%20responsive.png"></a></p><p>Agape</p> | <p>The platform was built utilizing Django, boasting comprehensive CRUD operations and an intuitive user interface to facilitate volunteering for agape-related tasks.</p> 
+| Milestone No.   | Project | Description | 
+| :-----------: | :-----------: | :-----------: | 
+| 1 | <p><a href="https://github.com/jayadeepravuri/CHARLOTTE-MAE"><img src="https://github.com/jayadeepravuri/CHARLOTTE-MAE/blob/bb546708c53764b02047459a74669904a38eaa4a/project%20one/assets/images/responsive%20-img.JPG"></a></p><p>Charlotte-Mae</p> | <p>A website created for Charlotte mae's which is a service based business , where, the therapist, charlotte mae provides therapy sessions for people dealing with cycle of trauma, confusing emotions and feelings. Created using HTML & CSS. </p> 
+| 2 | <p><a href="https://github.com/jayadeepravuri/project2"><img src="https://github.com/jayadeepravuri/project2/blob/main/images/mockup.JPG"></a></p><p>Your Swedish Quiz</p> | <p>Swedish Quiz is fun interative quiz game. ! Created with HTML, CSS & JavaScript.</p> 
+| 3 | <p><a href="https://github.com/jayadeepravuri/Motorman"><img src="https://github.com/jayadeepravuri/Motorman/blob/main/assets/images/title.JPG"></a></p><p>MotorMan</p> | <p>An Python based command line interface game and the player should guess a letter or a word within 6 tries, in order to win the game.Created with HTML, CSS & Python.</p> 
+| 4 | <p><a href="https://github.com/jayadeepravuri/agape"><img src="https://github.com/jayadeepravuri/agape/blob/main/documentation/readme%20images/am%20i%20responsive.png"></a></p><p>Agape</p> | <p>The platform was built utilizing Django, boasting comprehensive CRUD operations and an intuitive user interface to facilitate volunteering for agape-related tasks.Created with HTML, CSS, Python, django & Bootstrap.</p> 
 </details>
 
 - - -
