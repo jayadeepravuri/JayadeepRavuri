@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Jayadeep Ravuri
+# I am Jayadeep Ravuri
 ## Full Stack Software Developer
 
 ### About Me
