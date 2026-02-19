@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Hi there I'm Jayadeep, a Junior Web Developer 👋🏻
 
-I am currently working on my Level 5 Diploma in Full Stack Software Development with the Code Institute.
+I am a Level 5 Diploma holder in Full Stack Software Development with the Code Institute.
 
 When I'm not coding, I can be found playing music 🎸, reading 📚, running .
 
